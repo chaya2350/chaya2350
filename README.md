@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ## Hi 👋, I'm  Chaya!
-# Full-Stack Developer & Verification Engineer
+### Full-Stack Developer & Verification Engineer
 Software developer and verification engineer with strong analytical skills, a solid software background, and a passion for building reliable systems end-to-end.
 
-# 🔍 About Me
+### 🔍 About Me
 🧪 Verification engineer focused on simulation-driven chip verification using UVM
 🧠 Solid foundations in algorithms, operating systems, system architecture, and digital logic
 ⚙️ Experience developing system-level and real-time software, including C++ projects with OpenCV and concurrent design
@@ -27,7 +27,7 @@ Software developer and verification engineer with strong analytical skills, a so
 💡 Analytical, detail-oriented, fast learner with strong problem-solving skills
 💼 Open to roles in Software Engineering and Verification
 
-# 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
         
 Verification: SystemVerilog, UVM
 Backend: Node.js, C#, REST APIs
