@@ -28,7 +28,7 @@ Software developer and verification engineer with strong analytical skills, a so
 💼 Open to roles in Software Engineering and Verification
 
 ### 🛠️ Languages & Tools
-        
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
 Verification: SystemVerilog, UVM
 Backend: Node.js, C#, REST APIs
 Frontend: React, HTML, CSS
