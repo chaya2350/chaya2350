@@ -20,12 +20,12 @@ Software developer and verification engineer with strong analytical skills, a so
 
 ### 🔍 About Me
 
-🧪 Verification engineer focused on simulation-driven chip verification using UVM
-🧠 Solid foundations in algorithms, operating systems, system architecture, and digital logic
-⚙️ Experience developing system-level and real-time software, including C++ projects with OpenCV and concurrent design
-🌐 End-to-end Full-Stack development, connecting backend logic with clean and intuitive user interfaces 
-🚀 Completed Qualcomm Chip Verification Bootcamp (KamaTech) 
-💡 Analytical, detail-oriented, fast learner with strong problem-solving skills
+🧪 Verification engineer focused on simulation-driven chip verification using UVM<br/>
+🧠 Solid foundations in algorithms, operating systems, system architecture, and digital logic<br/>
+⚙️ Experience developing system-level and real-time software, including C++ projects with OpenCV and concurrent design<br/>
+🌐 End-to-end Full-Stack development, connecting backend logic with clean and intuitive user interfaces <br/>
+🚀 Completed Qualcomm Chip Verification Bootcamp (KamaTech) <br/>
+💡 Analytical, detail-oriented, fast learner with strong problem-solving skills<br/>
 💼 Open to roles in Software Engineering and Verification
 
 ---
@@ -44,7 +44,7 @@ Software developer and verification engineer with strong analytical skills, a so
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-**Verification:** SystemVerilog, UVM, SVA, Verilog , Cadence Xcelium 
+**Verification:** SystemVerilog, UVM, SVA, Verilog , Cadence Xcelium <br/>
 **Programming:** C++, C, Python, Java, C#/.NET, Assembly <br/>
 **Web Development:** React, Angular, Node.js, JavaScript, HTML/CSS <br/>
 **Tools & Platforms:** Git, CMake, AWS, OpenCV, SQL 
