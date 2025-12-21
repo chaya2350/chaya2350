@@ -40,8 +40,7 @@ Software developer and verification engineer with strong analytical skills, a so
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
-Verification: SystemVerilog, UVM <br/>
-Backend: Node.js, C#, REST APIs <br/>
-Frontend: React, HTML, CSS <br/>
-Software: C, C++, Python <br/>
-Tools & OS: Linux, Git, Postman <br/>
+Verification: SystemVerilog, UVM, SVA, Verilog , Cadence Xcelium <br/>
+Programming: C++, C, Python, Java, C#/.NET, Assembly <br/>
+Web Development: React, Angular, Node.js, JavaScript, HTML/CSS <br/>
+Tools & Platforms: Git, CMake, AWS, OpenCV, SQL 
