@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 Software developer and verification engineer with strong analytical skills, a solid software background, and a passion for building reliable systems end-to-end.
 
 ### 🔍 About Me
-🧪 Verification engineer focused on simulation-driven chip verification using UVM
-🧠 Solid foundations in algorithms, operating systems, system architecture, and digital logic
-⚙️ Experience developing system-level and real-time software, including C++ projects with OpenCV and concurrent design
-🌐 End-to-end Full-Stack development, connecting backend logic with clean and intuitive user interfaces
-🚀 Completed Qualcomm Chip Verification Bootcamp (KamaTech)
-💡 Analytical, detail-oriented, fast learner with strong problem-solving skills
-💼 Open to roles in Software Engineering and Verification
+🧪 Verification engineer focused on simulation-driven chip verification using UVM <br/>
+🧠 Solid foundations in algorithms, operating systems, system architecture, and digital logic <br/>
+⚙️ Experience developing system-level and real-time software, including C++ projects with OpenCV and concurrent design <br/>
+🌐 End-to-end Full-Stack development, connecting backend logic with clean and intuitive user interfaces <br/>
+🚀 Completed Qualcomm Chip Verification Bootcamp (KamaTech) <br/>
+💡 Analytical, detail-oriented, fast learner with strong problem-solving skills <br/>
+💼 Open to roles in Software Engineering and Verification <br/>
 
 ### 🛠️ Languages & Tools
 <p>
@@ -40,8 +40,8 @@ Software developer and verification engineer with strong analytical skills, a so
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
-Verification: SystemVerilog, UVM
-Backend: Node.js, C#, REST APIs
-Frontend: React, HTML, CSS
-Software: C, C++, Python
-Tools & OS: Linux, Git, Postman
+Verification: SystemVerilog, UVM <br/>
+Backend: Node.js, C#, REST APIs <br/>
+Frontend: React, HTML, CSS <br/>
+Software: C, C++, Python <br/>
+Tools & OS: Linux, Git, Postman <br/>
