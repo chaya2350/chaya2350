@@ -68,5 +68,25 @@ Built a custom C++ engine with real-time rendering and rule-based state manageme
 
 ---
 
+#### 🔹 Educational Achievements & Reporting System
+A modern platform for managing student achievements and generating smart reports, tailored for teachers and school administrators.  
+Developed with  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" title="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="28" title="Redux"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="28" title="C#"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="28" title=".NET Core"/>  
+frontend (**React**, **Redux**, advanced hooks) and a robust backend (**C# .NET Core**), following SOLID principles and modern design patterns.  
+Focus on intuitive UI/UX, high performance, security, and accessibility.  
+Enables efficient tracking, data analysis, and report generation for educational institutions.  
+<br>
+🔗 [Client](https://github.com/chaya2350/final-project-client) | [Server](https://github.com/chaya2350/final-project-server)
+
+<sub>מערכת מתקדמת לניהול הישגים והפקת דוחות חכמים למוסדות חינוך, עם דגש על חוויית משתמש, ביצועים ואבטחה.</sub>
+
+---
+
+### 📫 Contact
+📧 **cha182350@gmail.com**  
+📞 **Phone:** 052-718-2350
+
+---
+
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > <sub>– Cory House</sub>
