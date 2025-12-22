@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi 👋, I'm Chaya!
-
-![Visitor Count](https://komarev.com/ghpvc/?username=chaya2350&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/chaya2350?label=Followers)
-![Top Language](https://img.shields.io/github/languages/top/chaya2350/chaya2350)
-![Last Commit](https://img.shields.io/github/last-commit/chaya2350/chaya2350)
-
 ### Full-Stack Developer & Verification Engineer
 Software developer and verification engineer with strong analytical skills, a solid software background, and a passion for building reliable systems end-to-end.
 
@@ -55,3 +49,10 @@ Software developer and verification engineer with strong analytical skills, a so
 **Tools & Platforms:** Git, CMake, AWS, OpenCV, SQL <br/>
 
 ---
+ <a href="mailto:cha182350@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/>
+  </a>
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> <sub>– Cory House</sub>
