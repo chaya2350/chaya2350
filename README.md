@@ -50,3 +50,5 @@ Software developer and verification engineer with strong analytical skills, a so
 **Tools & Platforms:** Git, CMake, AWS, OpenCV, SQL 
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=chaya2350&color=blue)
