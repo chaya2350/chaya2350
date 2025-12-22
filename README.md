@@ -47,8 +47,10 @@ Software developer and verification engineer with strong analytical skills, a so
 **Verification:** SystemVerilog, UVM, SVA, Verilog , Cadence Xcelium <br/>
 **Programming:** C++, C, Python, Java, C#/.NET, Assembly <br/>
 **Web Development:** React, Angular, Node.js, JavaScript, HTML/CSS <br/>
-**Tools & Platforms:** Git, CMake, AWS, OpenCV, SQL 
+**Tools & Platforms:** Git, CMake, AWS, OpenCV, SQL <br/>
 
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=chaya2350&color=blue)
+
+---
