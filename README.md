@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi 👋, I'm Chaya!
 
-## Hi 👋, I'm  Chaya!
+![Visitor Count](https://komarev.com/ghpvc/?username=chaya2350&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/chaya2350?label=Followers)
+![Top Language](https://img.shields.io/github/languages/top/chaya2350/chaya2350)
+![Last Commit](https://img.shields.io/github/last-commit/chaya2350/chaya2350)
+
 ### Full-Stack Developer & Verification Engineer
 Software developer and verification engineer with strong analytical skills, a solid software background, and a passion for building reliable systems end-to-end.
 
@@ -48,9 +53,5 @@ Software developer and verification engineer with strong analytical skills, a so
 **Programming:** C++, C, Python, Java, C#/.NET, Assembly <br/>
 **Web Development:** React, Angular, Node.js, JavaScript, HTML/CSS <br/>
 **Tools & Platforms:** Git, CMake, AWS, OpenCV, SQL <br/>
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=chaya2350&color=blue)
 
 ---
