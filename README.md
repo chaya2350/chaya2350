@@ -49,9 +49,23 @@ Software developer and verification engineer with strong analytical skills, a so
 **Tools & Platforms:** Git, CMake, AWS, OpenCV, SQL <br/>
 
 ---
- <a href="mailto:cha182350@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/>
-  </a>
+
+### 📌 Selected Projects
+
+#### 🔹 YAPP Router — UVM Verification  
+Built an end-to-end verification environment for a packet-based router using **SystemVerilog and UVM**, covering agents, sequences, scoreboards, and functional coverage.  
+Focused on protocol validation and bug detection through extensive waveform analysis and simulation logs.  
+Implemented UVM agents, scoreboards, and protocol-oriented coverage with stress and corner-case sequences
+🔗 https://github.com/chaya2350/Yapp-Router-UVM   
+
+---
+
+#### 🔹 Physics-Based Chess Engine  
+Implemented a physics-inspired chess engine in **C++** with real-time visualization using **OpenCV**, designed with modular object-oriented architecture and system-level thinking.  
+Handled movement logic, state transitions, and interactions with attention to performance and correctness.  
+Built a custom C++ engine with real-time rendering and rule-based state management  
+🔗 https://github.com/chaya2350/Kung-Fu-Chess  
+
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
